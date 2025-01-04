@@ -35,10 +35,11 @@ The service allows users to translate text from one language to another by sendi
 Translation service is up and running on 127.0.0.1:8000...
 
 **Client:**  
-Enter text to be translated: Hello
-Enter target language (default is 'en'): es
-Waiting for response from server...
-Translated Text: Hola
+
+Enter text to be translated: Hello  
+Enter target language (default is 'en'): es  
+Waiting for response from server...  
+Translated Text: Hola  
 
 ---
 
